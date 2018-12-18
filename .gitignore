@@ -1,2 +1,2 @@
-www/
-.sourcemaps/
+www/**
+.sourcemaps/**
